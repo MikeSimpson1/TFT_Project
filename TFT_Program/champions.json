@@ -1,0 +1,475 @@
+[
+  {
+    "champion": "Aatrox",
+    "cost": 3,
+    "traits": [
+      "Light",
+      "Blademaster"
+    ],
+    "image": "/champion_icons/Aatrox.png"
+  },
+  {
+    "champion": "Annie",
+    "cost": 4,
+    "traits": [
+      "Inferno",
+      "Summoner"
+    ],
+    "image": "/champion_icons/Annie.png"
+  },
+  {
+    "champion": "Ashe",
+    "cost": 4,
+    "traits": [
+      "Crystal",
+      "Ranger"
+    ],
+    "image": "/champion_icons/Ashe.png"
+  },
+  {
+    "champion": "Azir",
+    "cost": 3,
+    "traits": [
+      "Desert",
+      "Summoner"
+    ],
+    "image": "/champion_icons/Azir.png"
+  },
+  {
+    "champion": "Brand",
+    "cost": 4,
+    "traits": [
+      "Inferno",
+      "Mage"
+    ],
+    "image": "/champion_icons/Brand.png"
+  },
+  {
+    "champion": "Braum",
+    "cost": 2,
+    "traits": [
+      "Glacial",
+      "Warden"
+    ],
+    "image": "/champion_icons/Braum.png"
+  },
+  {
+    "champion": "Diana",
+    "cost": 1,
+    "traits": [
+      "Inferno",
+      "Assassin"
+    ],
+    "image": "/champion_icons/Diana.png"
+  },
+  {
+    "champion": "DrMundo",
+    "cost": 3,
+    "traits": [
+      "Poison",
+      "Berserker"
+    ],
+    "image": "/champion_icons/Drmundo.png"
+  },
+  {
+    "champion": "Ezreal",
+    "cost": 3,
+    "traits": [
+      "Glacial",
+      "Ranger"
+    ],
+    "image": "/champion_icons/Ezreal.png"
+  },
+  {
+    "champion": "Ivern",
+    "cost": 1,
+    "traits": [
+      "Woodland",
+      "Druid"
+    ],
+    "image": "/champion_icons/Ivern.png"
+  },
+  {
+    "champion": "Janna",
+    "cost": 4,
+    "traits": [
+      "Cloud",
+      "Mystic"
+    ],
+    "image": "/champion_icons/Janna.png"
+  },
+  {
+    "champion": "Jax",
+    "cost": 2,
+    "traits": [
+      "Light",
+      "Berserker"
+    ],
+    "image": "/champion_icons/Jax.png"
+  },
+  {
+    "champion": "KhaZix",
+    "cost": 4,
+    "traits": [
+      "Desert",
+      "Assassin"
+    ],
+    "image": "/champion_icons/Khazix.png"
+  },
+  {
+    "champion": "Kindred",
+    "cost": 3,
+    "traits": [
+      "Shadow",
+      "Inferno"
+    ],
+    "image": "/champion_icons/Kindred.png"
+  },
+  {
+    "champion": "KogMaw",
+    "cost": 1,
+    "traits": [
+      "Poison",
+      "Predator"
+    ],
+    "image": "/champion_icons/Kogmaw.png"
+  },
+  {
+    "champion": "LeBlanc",
+    "cost": 2,
+    "traits": [
+      "Woodland",
+      "Assassin",
+      "Mage"
+    ],
+    "image": "/champion_icons/Leblanc.png"
+  },
+  {
+    "champion": "Lux",
+    "cost": 7,
+    "traits": [
+      "Crystal",
+      "Electric",
+      "Glacial",
+      "Inferno",
+      "Light",
+      "Steel",
+      "Ocean",
+      "Shadow",
+      "Cloud",
+      "Woodland",
+      "Avatar"
+    ],
+    "image": "/champion_icons/Lux.png"
+  },
+  {
+    "champion": "Malphite",
+    "cost": 4,
+    "traits": [
+      "Mountain",
+      "Warden"
+    ],
+    "image": "/champion_icons/Malphite.png"
+  },
+  {
+    "champion": "Malzahar",
+    "cost": 2,
+    "traits": [
+      "Shadow",
+      "Summoner"
+    ],
+    "image": "/champion_icons/Malzahar.png"
+  },
+  {
+    "champion": "Maokai",
+    "cost": 1,
+    "traits": [
+      "Woodland",
+      "Druid"
+    ],
+    "image": "/champion_icons/Maokai.png"
+  },
+  {
+    "champion": "MasterYi",
+    "cost": 5,
+    "traits": [
+      "Shadow",
+      "Mystic"
+    ],
+    "image": "/champion_icons/Masteryi.png"
+  },
+  {
+    "champion": "Nami",
+    "cost": 5,
+    "traits": [
+      "Ocean",
+      "Mystic"
+    ],
+    "image": "/champion_icons/Nami.png"
+  },
+  {
+    "champion": "Nasus",
+    "cost": 1,
+    "traits": [
+      "Light",
+      "Warden"
+    ],
+    "image": "/champion_icons/Nasus.png"
+  },
+  {
+    "champion": "Nautilus",
+    "cost": 3,
+    "traits": [
+      "Ocean",
+      "Warden"
+    ],
+    "image": "/champion_icons/Nautilus.png"
+  },
+  {
+    "champion": "Neeko",
+    "cost": 2,
+    "traits": [
+      "Woodland",
+      "Druid"
+    ],
+    "image": "/champion_icons/Neeko.png"
+  },
+  {
+    "champion": "Nocturne",
+    "cost": 3,
+    "traits": [
+      "Steel",
+      "Assassin"
+    ],
+    "image": "/champion_icons/Nocturne.png"
+  },
+  {
+    "champion": "Olaf",
+    "cost": 4,
+    "traits": [
+      "Glacial",
+      "Berserker"
+    ],
+    "image": "/champion_icons/Olaf.png"
+  },
+  {
+    "champion": "Ornn",
+    "cost": 1,
+    "traits": [
+      "Electric",
+      "Warden"
+    ],
+    "image": "/champion_icons/Ornn.png"
+  },
+  {
+    "champion": "Qiyana",
+    "cost": 3,
+    "traits": [
+      "Ocean",
+      "Inferno",
+      "Cloud",
+      "Woodland",
+      "Assassin"
+    ],
+    "image": "/champion_icons/Qiyana.png"
+  },
+  {
+    "champion": "RekSai",
+    "cost": 2,
+    "traits": [
+      "Steel",
+      "Predator"
+    ],
+    "image": "/champion_icons/Reksai.png"
+  },
+  {
+    "champion": "Renekton",
+    "cost": 1,
+    "traits": [
+      "Desert",
+      "Berserker"
+    ],
+    "image": "/champion_icons/Renekton.png"
+  },
+  {
+    "champion": "Singed",
+    "cost": 5,
+    "traits": [
+      "Poison",
+      "Alchemist"
+    ],
+    "image": "/champion_icons/Singed.png"
+  },
+  {
+    "champion": "Sion",
+    "cost": 3,
+    "traits": [
+      "Shadow",
+      "Berserker"
+    ],
+    "image": "/champion_icons/Sion.png"
+  },
+  {
+    "champion": "Sivir",
+    "cost": 3,
+    "traits": [
+      "Desert",
+      "Blademaster"
+    ],
+    "image": "/champion_icons/Sivir.png"
+  },
+  {
+    "champion": "Skarner",
+    "cost": 2,
+    "traits": [
+      "Crystal",
+      "Predator"
+    ],
+    "image": "/champion_icons/Skarner.png"
+  },
+  {
+    "champion": "Soraka",
+    "cost": 3,
+    "traits": [
+      "Light",
+      "Mystic"
+    ],
+    "image": "/champion_icons/Soraka.png"
+  },
+  {
+    "champion": "Syndra",
+    "cost": 2,
+    "traits": [
+      "Ocean",
+      "Mage"
+    ],
+    "image": "/champion_icons/Syndra.png"
+  },
+  {
+    "champion": "Taliyah",
+    "cost": 1,
+    "traits": [
+      "Mountain",
+      "Mage"
+    ],
+    "image": "/champion_icons/Taliyah.png"
+  },
+  {
+    "champion": "Taric",
+    "cost": 5,
+    "traits": [
+      "Crystal",
+      "Warden"
+    ],
+    "image": "/champion_icons/Taric.png"
+  },
+  {
+    "champion": "Thresh",
+    "cost": 2,
+    "traits": [
+      "Ocean",
+      "Warden"
+    ],
+    "image": "/champion_icons/Thresh.png"
+  },
+  {
+    "champion": "Twitch",
+    "cost": 4,
+    "traits": [
+      "Poison",
+      "Ranger"
+    ],
+    "image": "/champion_icons/Twitch.png"
+  },
+  {
+    "champion": "Varus",
+    "cost": 2,
+    "traits": [
+      "Inferno",
+      "Ranger"
+    ],
+    "image": "/champion_icons/Varus.png"
+  },
+  {
+    "champion": "Vayne",
+    "cost": 1,
+    "traits": [
+      "Light",
+      "Ranger"
+    ],
+    "image": "/champion_icons/Vayne.png"
+  },
+  {
+    "champion": "Veigar",
+    "cost": 3,
+    "traits": [
+      "Shadow",
+      "Mage"
+    ],
+    "image": "/champion_icons/Veigar.png"
+  },
+  {
+    "champion": "Vladimir",
+    "cost": 1,
+    "traits": [
+      "Ocean",
+      "Mage"
+    ],
+    "image": "/champion_icons/Vladimir.png"
+  },
+  {
+    "champion": "Volibear",
+    "cost": 2,
+    "traits": [
+      "Glacial",
+      "Electric"
+    ],
+    "image": "/champion_icons/Volibear.png"
+  },
+  {
+    "champion": "Warwick",
+    "cost": 1,
+    "traits": [
+      "Glacial",
+      "Predator"
+    ],
+    "image": "/champion_icons/Warwick.png"
+  },
+  {
+    "champion": "Yasuo",
+    "cost": 2,
+    "traits": [
+      "Cloud",
+      "Blademaster"
+    ],
+    "image": "/champion_icons/Yasuo.png"
+  },
+  {
+    "champion": "Yorick",
+    "cost": 4,
+    "traits": [
+      "Light",
+      "Summoner"
+    ],
+    "image": "/champion_icons/Yorick.png"
+  },
+  {
+    "champion": "Zed",
+    "cost": 5,
+    "traits": [
+      "Electric",
+      "Summoner",
+      "Assassin"
+    ],
+    "image": "/champion_icons/Zed.png"
+  },
+  {
+    "champion": "Zyra",
+    "cost": 1,
+    "traits": [
+      "Inferno",
+      "Summoner"
+    ],
+    "image": "/champion_icons/Zyra.png"
+  }
+]
