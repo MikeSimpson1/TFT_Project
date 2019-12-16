@@ -3,7 +3,7 @@
     "name": "Alchemist",
     "innate": "Alchemists move through other units and never stop moving.",
     "description": "",
-    "sets":[]
+    "sets":[1]
   },
   {
     "name": "Assassin",
@@ -14,7 +14,7 @@
   {
     "name": "Avatar",
     "description": "An Avatar's element is counted twice for trait bonuses.",
-    "sets":[]
+    "sets":[1]
   },
   {
     "name": "Berserker",
